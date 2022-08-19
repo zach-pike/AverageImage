@@ -1,6 +1,6 @@
-(Flag image download)[https://flagpedia.net/download]
-(libpng)[http://www.libpng.org/pub/png/libpng.html]
-(png++)[https://www.nongnu.org/pngpp/]
+[Flag image download](https://flagpedia.net/download)
+[libpng](http://www.libpng.org/pub/png/libpng.html)
+[png++](https://www.nongnu.org/pngpp/)
 
 ### Code is not that optimized as i made it relatively quickly, it probably could be optimized
 
