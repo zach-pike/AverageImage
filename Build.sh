@@ -1,0 +1,1 @@
+g++ src/main.cpp -lpng -std=c++17 -o out.elf
